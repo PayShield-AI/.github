@@ -4,6 +4,7 @@
 
 ![Organization](https://img.shields.io/badge/Organization-PayShield--AI-0070BA?style=flat-square&logo=github&logoColor=white)
 [![Lead Developer](https://img.shields.io/badge/Lead_Developer-Akshdeep_Singh-7928CA?style=flat-square&logo=github&logoColor=white)](https://github.com/akshdeepsingh7)
+[![Live Demo](https://img.shields.io/badge/Live_App-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://payshield-lbek.onrender.com)
 ![Hackathon](https://img.shields.io/badge/PayPal_AI_Hackathon-2026-003087?style=flat-square&logo=paypal&logoColor=white)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-@Pay--Shield-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Pay-Shield)
 [![Demo Video](https://img.shields.io/badge/Demo-Walkthrough-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=060fg4GyTac)
@@ -30,6 +31,7 @@ Online shopping scams often rely on urgent countdown timers, fake clearance doma
 **PayShield** inspects product listings, pricing anomalies, and seller communications before money changes hands. It calculates a plain-words risk rating (**Low**, **Medium**, or **High**) and securely gates transaction execution via the **PayPal Orders API v2**.
 
 - **Repository:** [github.com/PayShield-AI/PayShield](https://github.com/PayShield-AI/PayShield)
+- **Live Cloud Web App:** [payshield-lbek.onrender.com](https://payshield-lbek.onrender.com)
 - **Demo Video:** [Watch Walkthrough on YouTube](https://www.youtube.com/watch?v=060fg4GyTac)
 - **YouTube Channel:** [@Pay-Shield](https://www.youtube.com/@Pay-Shield)
 
@@ -57,6 +59,7 @@ Online shopping scams often rely on urgent countdown timers, fake clearance doma
 ![Tornado](https://img.shields.io/badge/Tornado-6.4%2B-008080?style=flat-square&logo=python&logoColor=white)
 ![PayPal API](https://img.shields.io/badge/PayPal_Orders_v2-Platform-003087?style=flat-square&logo=paypal&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Render](https://img.shields.io/badge/Render-Cloud_Host-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-Web_Audio_API-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 </div>
@@ -64,6 +67,7 @@ Online shopping scams often rely on urgent countdown timers, fake clearance doma
 - **Backend Runtime:** Python 3, Tornado Asynchronous Networking
 - **Intelligence Layer:** Heuristic threat evaluation, statistical anomaly modeling, optional Google Gemini API
 - **Payment Infrastructure:** PayPal Developer Platform (Sandbox Orders API v2, OAuth2 Token Management)
+- **Cloud & Deployment:** Render (Official Hackathon Sponsor Tool)
 - **Client Interface:** HTML5, Tailwind CSS, Web Audio API, vector SVG diagnostics
 
 ---
